@@ -1,0 +1,31 @@
+[
+
+    {
+      "id":1,
+      "title":"csav",
+      "name":"Colegie de Sta ana de Victorias",
+      "department":[
+          {
+              "name":"Victorias"
+          },
+          {
+              "name":"Silay"
+          }
+      ],
+      "toggle": false
+    },
+    {
+      "id":2,
+      "title":"role",
+      "name":"lending corp",
+      "department":[
+          {
+              "name":"Cadiz"
+          },
+          {
+              "name":"Bacolod"
+          }
+      ],
+      "toggle": false
+    }
+  ]
